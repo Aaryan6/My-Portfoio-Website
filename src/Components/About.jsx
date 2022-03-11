@@ -101,7 +101,7 @@ const About = () => {
             <Name>Hello!</Name>
             <Desc>
               I am Aaryan Patel, I am a Web developer or Full stack developer. I
-              learnt front end languages like HTML, CSS, Javascipt, React and
+              learnt front end languages like HTML, CSS, Javascript, React and
               Backend languages like Node.js, Python, Express, MongoDB. I
               started programming at the age of 15 and started a youtube channel
               name is “Code with Aaryan”. I created many projects like amazon clone,
